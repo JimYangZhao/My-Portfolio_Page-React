@@ -1,13 +1,13 @@
 {
-  "main.css": "/JimYangZhao/My-Portfolio_Page-React/static/css/main.2ba997e0.chunk.css",
-  "main.js": "/JimYangZhao/My-Portfolio_Page-React/static/js/main.1df6e3d5.chunk.js",
-  "main.js.map": "/JimYangZhao/My-Portfolio_Page-React/static/js/main.1df6e3d5.chunk.js.map",
-  "static/js/1.63fb5b41.chunk.js": "/JimYangZhao/My-Portfolio_Page-React/static/js/1.63fb5b41.chunk.js",
-  "static/js/1.63fb5b41.chunk.js.map": "/JimYangZhao/My-Portfolio_Page-React/static/js/1.63fb5b41.chunk.js.map",
-  "runtime~main.js": "/JimYangZhao/My-Portfolio_Page-React/static/js/runtime~main.4a1dcbc8.js",
-  "runtime~main.js.map": "/JimYangZhao/My-Portfolio_Page-React/static/js/runtime~main.4a1dcbc8.js.map",
-  "static/css/main.2ba997e0.chunk.css.map": "/JimYangZhao/My-Portfolio_Page-React/static/css/main.2ba997e0.chunk.css.map",
-  "index.html": "/JimYangZhao/My-Portfolio_Page-React/index.html",
-  "precache-manifest.021c76780dcc28e5437112618235511b.js": "/JimYangZhao/My-Portfolio_Page-React/precache-manifest.021c76780dcc28e5437112618235511b.js",
-  "service-worker.js": "/JimYangZhao/My-Portfolio_Page-React/service-worker.js"
+  "main.css": "/My-Portfolio_Page-React/static/css/main.2ba997e0.chunk.css",
+  "main.js": "/My-Portfolio_Page-React/static/js/main.aef5d42e.chunk.js",
+  "main.js.map": "/My-Portfolio_Page-React/static/js/main.aef5d42e.chunk.js.map",
+  "static/js/1.63fb5b41.chunk.js": "/My-Portfolio_Page-React/static/js/1.63fb5b41.chunk.js",
+  "static/js/1.63fb5b41.chunk.js.map": "/My-Portfolio_Page-React/static/js/1.63fb5b41.chunk.js.map",
+  "runtime~main.js": "/My-Portfolio_Page-React/static/js/runtime~main.76a7b150.js",
+  "runtime~main.js.map": "/My-Portfolio_Page-React/static/js/runtime~main.76a7b150.js.map",
+  "static/css/main.2ba997e0.chunk.css.map": "/My-Portfolio_Page-React/static/css/main.2ba997e0.chunk.css.map",
+  "index.html": "/My-Portfolio_Page-React/index.html",
+  "precache-manifest.6a34469cd02174d541690952704fc8ae.js": "/My-Portfolio_Page-React/precache-manifest.6a34469cd02174d541690952704fc8ae.js",
+  "service-worker.js": "/My-Portfolio_Page-React/service-worker.js"
 }
