@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://JimYangZhao.github.io/",
     "name": "Yang Zhao(Jim)",
-    "role": "Full Stack Engineer | Front End Specialist",
+    "role": "Full Stack Engineer | Front End Specialist ",
     "linkedinId":"https://www.linkedin.com/in/yang-zhao-11a75015b/",
     
     "roleDescription": "Computer Science graduate with a demonstrated history of working in the technology industry. Skilled in Spring Boot, Node.js, React, DevOps technologies, and AWS. Strong advocate for TDD and CI&CD implementation. ",
