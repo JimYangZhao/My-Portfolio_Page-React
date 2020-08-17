@@ -67,38 +67,28 @@ let resumeData = {
         "YearOfLeaving":"2015 to Sept. of 2019",
       }
     ],
-    "skillsDescription":"Your skills here",
-    "skills":[
-      {
-        "skillname":"HTML5"
-      },
-      {
-        "skillname":"CSS"
-      },
-      {
-        "skillname":"Reactjs"
-      }
-    ],
+    "skillsDescription":"HTML5, CSS3, Bootstrap, JQuery, PHP. JAVA, Spring Boot, Node.js, React, DevOps technologies, and AWS. Strong advocate for TDD and CI&CD implementation. ",
+
     "portfolio":[
       {
         "name":"NL Bakery E-shop",
         "description":"St. John’s local bakery E-shop.",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/WeChat-Screenshot_20200513213724-800x387.png"
       },
       {
         "name":"Chinese community",
         "description":"St. John’s biggest Chinese community service/rental website.",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"images/portfolio/nlcc-800x387.png"
       },
       {
         "name":"Chinese restaurant",
         "description":"St. John’s very popular Chinese restaurant.",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"images/portfolio/citylight-800x390.png"
       },
       {
         "name":"Industry website",
         "description":"China, Intelligent Power Technology Co.,Ltd., industry website.",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/Gardermoen-800x394.png"
       }
     ],
     "testimonials":[
