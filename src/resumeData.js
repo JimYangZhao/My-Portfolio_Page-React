@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Engineer | Front End Specialist",
     "linkedinId":"https://www.linkedin.com/in/yang-zhao-11a75015b/",
     
-    "roleDescription": "Recent Computer Science graduate with a demonstrated history of working in the technology industry. Skilled in Spring Boot, Node.js, React, DevOps technologies, and AWS. Strong advocate for TDD and CI&CD implementation. ",
+    "roleDescription": "Computer Science graduate with a demonstrated history of working in the technology industry. Skilled in Spring Boot, Node.js, React, DevOps technologies, and AWS. Strong advocate for TDD and CI&CD implementation. ",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -18,7 +18,7 @@ let resumeData = {
         },
 
       ],
-    "aboutme":"Recent Computer Science graduate with a demonstrated history of working in the technology industry. Skilled in Spring Boot, Node.js, React, DevOps technologies, and AWS. Strong advocate for TDD and CI&CD implementation.",
+    "aboutme":"Computer Science graduate with a demonstrated history of working in the technology industry. Skilled in Spring Boot, Node.js, React, DevOps technologies, and AWS. Strong advocate for TDD and CI&CD implementation.",
     "address":"Canada, NL, St. John's, yangzhao264@gmail.com",
     "education":[
       {
