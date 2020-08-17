@@ -19,8 +19,7 @@ let resumeData = {
 
       ],
     "aboutme":"Recent Computer Science graduate with a demonstrated history of working in the technology industry. Skilled in Spring Boot, Node.js, React, DevOps technologies, and AWS. Strong advocate for TDD and CI&CD implementation.",
-    "address":"Canada",
-    "website":"https://www.linkedin.com/in/yang-zhao-11a75015b/",
+    "address":"Canada, NL, St. John's, yangzhao264@gmail.com",
     "education":[
       {
         "UniversityName":"CA, Memorial University",
