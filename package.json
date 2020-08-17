@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://jimyangzhao.github.io/My-Portfolio_Page-React/",
   "dependencies": {
     "react": "^16.6.0",
