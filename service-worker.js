@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/JimYangZhao/My-Portfolio_Page-React/precache-manifest.021c76780dcc28e5437112618235511b.js"
+  "/My-Portfolio_Page-React/precache-manifest.6a34469cd02174d541690952704fc8ae.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/JimYangZhao/My-Portfolio_Page-React/index.html", {
+workbox.routing.registerNavigationRoute("/My-Portfolio_Page-React/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
