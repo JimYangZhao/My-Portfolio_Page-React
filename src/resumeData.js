@@ -1,9 +1,9 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://JimYangZhao.github.io/",
     "name": "Yang Zhao(Jim)",
     "role": "Full Stack Engineer | Front End Specialist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
+    "linkedinId":"https://www.linkedin.com/in/yang-zhao-11a75015b/",
+    
     "roleDescription": "Recent Computer Science graduate with a demonstrated history of working in the technology industry. Skilled in Spring Boot, Node.js, React, DevOps technologies, and AWS. Strong advocate for TDD and CI&CD implementation. ",
     "socialLinks":[
         {
@@ -16,11 +16,7 @@ let resumeData = {
           "url":"https://github.com/JimYangZhao",
           "className":"fa fa-github"
         },
-        {
-          "name":"skype",
-          "url":"http://twitter.com",
-          "className":"fa fa-twitter"
-        }
+
       ],
     "aboutme":"Recent Computer Science graduate with a demonstrated history of working in the technology industry. Skilled in Spring Boot, Node.js, React, DevOps technologies, and AWS. Strong advocate for TDD and CI&CD implementation.",
     "address":"Canada",
@@ -78,7 +74,7 @@ let resumeData = {
       {
         "name":"Chinese community",
         "description":"St. John’s biggest Chinese community service/rental website.",
-        "imgurl":"images/portfolio/nlcc-800x387.png"
+        "imgurl":"images/portfolio/nlcc-800x387.png",
       },
       {
         "name":"Chinese restaurant",
