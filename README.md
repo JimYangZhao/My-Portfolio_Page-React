@@ -4,7 +4,7 @@ My Portfolio_Page Created by React
 A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
 ## Preview
-![Preview](https://JimYangZhao.github.io/)
+![Preview](https://raw.githubusercontent.com/JimYangZhao/My-Portfolio_Page-React/master/public/images/Preview.png)
 
 ## How to use
 1. Clone/Download the repo.
