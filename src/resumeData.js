@@ -1,60 +1,70 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Yang Zhao(Jim)",
+    "role": "Full Stack Engineer | Front End Specialist",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "Recent Computer Science graduate with a demonstrated history of working in the technology industry. Skilled in Spring Boot, Node.js, React, DevOps technologies, and AWS. Strong advocate for TDD and CI&CD implementation. ",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/yang-zhao-11a75015b/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/JimYangZhao",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Recent Computer Science graduate with a demonstrated history of working in the technology industry. Skilled in Spring Boot, Node.js, React, DevOps technologies, and AWS. Strong advocate for TDD and CI&CD implementation.",
+    "address":"Canada",
+    "website":"https://www.linkedin.com/in/yang-zhao-11a75015b/",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
+        "UniversityName":"CA, Memorial University",
+        "specialization":"Computer Science",
+        "MonthOfPassing":"May",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":"Bachelor of Science, Computer Science"
       },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Heardgi Website Design",
+        "specialization":
+            "Communicating with clients and translate client need into business requirements for feature development",
+        "MonthOfLeaving":"April",
+        "YearOfLeaving":"2016 to Present",
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"BoomIT",
+        "specialization":"Delivered high quality E-commerce web applications based on business requirement using WordPress",
+        "MonthOfLeaving":"June",
+        "YearOfLeaving":"2019 to July 2020",
+      },
+      {
+        "CompanyName":"NLCC Service Group Corp.",
+        "specialization":"Successfully led a full stack project to deliver a modern web application to clients of NLCC Service Group.",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "YearOfLeaving":"2019 to Dec 2019",
+      },
+      {
+        "CompanyName":"FAW-VOLKSWAGEN",
+        "specialization":"Responsible for oversight of the IT infrastructure, provisioning, planning, installation and operation for FAW-VOLKSWAGEN IT Department.",
+        "MonthOfLeaving":"April",
+        "YearOfLeaving":"2016 to August 2016",
+      },
+      {
+        "CompanyName":"Memorial University",
+        "specialization":"Responsible for installation and maintenance of communication devices on campus.",
+        "MonthOfLeaving":"Dec.",
+        "YearOfLeaving":"2015 to Sept. of 2019",
       }
     ],
     "skillsDescription":"Your skills here",
@@ -71,34 +81,34 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
+        "name":"NL Bakery E-shop",
+        "description":"St. John’s local bakery E-shop.",
         "imgurl":"images/portfolio/phone.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
+        "name":"Chinese community",
+        "description":"St. John’s biggest Chinese community service/rental website.",
         "imgurl":"images/portfolio/project.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
+        "name":"Chinese restaurant",
+        "description":"St. John’s very popular Chinese restaurant.",  
         "imgurl":"images/portfolio/project2.png"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
+        "name":"Industry website",
+        "description":"China, Intelligent Power Technology Co.,Ltd., industry website.",
         "imgurl":"images/portfolio/phone.jpg"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"The very important thing you should have is patience.",
+        "name":"Jack Ma"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it’s not.",
+        "name":"Elon Musk"
       }
     ]
   }
