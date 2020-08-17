@@ -6,6 +6,9 @@ A simple SPA Portfolio template for developer/designers built with React. Use it
 ## Preview
 ![Preview](https://raw.githubusercontent.com/JimYangZhao/My-Portfolio_Page-React/master/public/images/Preview.png)
 
+## Deploy Page
+https://jimyangzhao.github.io/My-Portfolio_Page-React/
+
 ## How to use
 1. Clone/Download the repo.
 2. Run  ``` npm install ```.
