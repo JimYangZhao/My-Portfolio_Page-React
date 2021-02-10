@@ -38,10 +38,10 @@ let resumeData = {
         "YearOfLeaving":"2016 to Present",
       },
       {
-        "CompanyName":"BoomIT",
+        "CompanyName":"JAC",
         "specialization":"Delivered high quality E-commerce web applications based on business requirement using WordPress",
-        "MonthOfLeaving":"June",
-        "YearOfLeaving":"2019 to July 2020",
+        "MonthOfLeaving":"Sept",
+        "YearOfLeaving":"2020 to Dec 2020",
       },
       {
         "CompanyName":"NLCC Service Group Corp.",
